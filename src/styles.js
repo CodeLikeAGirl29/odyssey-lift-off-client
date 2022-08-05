@@ -13,13 +13,13 @@ export const widths = {
   textPageWidth: 800,
 };
 export const colors = {
-  primary: SKColors.indigo.base,
-  secondary: SKColors.teal.base,
-  accent: SKColors.pink.base,
-  background: SKColors.silver.light,
+  primary: SKColors.blilet.dark,
+  secondary: SKColors.teal.light,
+  accent: SKColors.red.base,
+  background: SKColors.silver.lighter,
   grey: SKColors.silver.dark,
-  text: SKColors.black.base,
-  textSecondary: SKColors.grey.dark,
+  text: SKColors.black.darker,
+  textSecondary: SKColors.midnight.darker,
   ...SKColors,
 };
 
