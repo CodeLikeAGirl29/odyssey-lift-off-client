@@ -2,7 +2,7 @@ import React from 'react';
 import { colors, widths } from '../styles';
 import styled from '@emotion/styled';
 import { Link } from '@reach/router';
-import logo from '../assets/space_cat_logo.png';
+import logo from '../assets/moon_logo.png';
 
 /**
  * Header renders the top navigation
@@ -20,7 +20,7 @@ const Header = ({ children }) => {
               </LogoContainer>
               <Title>
                 <h3>Catstronaut</h3>
-                <div>Kitty space academy</div>
+                <div>Kitty Space Academy</div>
               </Title>
             </HomeButton>
           </HomeLink>
