@@ -12,6 +12,8 @@ You can [preview the completed demo app here](https://catstronaut-bylindseyk.net
 
 You can [find the server counterpart here](https://github.com/CodeLikeAGirl29/odyssey-lift-off-server).
 
+![kitties in space](https://res.cloudinary.com/codelikeagirl29/image/upload/v1661057806/projects/Catstronauts_wzsrk4.png)
+
 ## How to use this repo
 
 The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
